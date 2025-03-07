@@ -90,4 +90,3 @@ Use `#` for headings:
 - Keep lines short for easier editing.
 - Use tables for structured data.
 
-This guide provides a concise reference for using Markdown effectively!
